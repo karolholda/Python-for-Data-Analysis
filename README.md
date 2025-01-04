@@ -1,4 +1,4 @@
-# [🛒 Market Sales Analysis Project](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/Market_Sales_Analysis.ipynb)
+# [🛒 Sales Analysis Project](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Python%20Project.ipynb)
 
 
 This project analyzes customer behavior and sales trends in a supermarket setting, aiming to uncover insights that can drive profitability, enhance customer satisfaction, and improve inventory and marketing strategies. By examining data such as product categories, payment methods, customer demographics, and sales hours, this analysis identifies key factors that influence customer purchasing decisions.
@@ -22,14 +22,10 @@ Link to Dataset : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ### ❓ Research Questions
 
-1. **Which supermarket branches generate the highest revenue?** 📈
-2. **How do product category preferences vary by location?** 🏙️
-3. **What are the spending patterns of members compared to regular customers?** 🛍️
-4. **How does gender influence purchasing behavior and category preferences?** 👫
-5. **What are the peak sales hours, and how do they impact sales volume by category?** ⏰
-6. **Which product categories yield the highest profit margins?** 💰
-7. **Do customer satisfaction ratings differ by location, payment method, or purchase amount?** ⭐
-8. **How can personalization be leveraged to increase sales in specific customer segments?** 🎯
+1. **Which product is returned most often??** 🛍️
+2. **High rating = customer returns?** 🏙️
+3. **Sales trend over months?** 📈
+4. **Shipping costs vs sales.?** 💰
 
 ---
 
@@ -58,8 +54,8 @@ The project leverages several Python libraries for data analysis and visualizati
 
 Below are some example plots generated during the analysis:
 
-### 1. ⏰ Sales by Hour and Product Category
-![Sales by Hour and Product Category](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Sales%20by%20Hour.PNG)
+### 1. ⏰ Rating vs Customers
+![High rating = customer returns?](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/charts/Rating%20vs%20Customers.png)
 
 ### 2. 🛒 Percentage of Average Spend by Customer Type
 ![Percentage of Average Spend by Customer Type](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Percentage%20of%20Average%20Spend%20by%20Customer%20Type.PNG)
