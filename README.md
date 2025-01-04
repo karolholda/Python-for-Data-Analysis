@@ -1,7 +1,7 @@
 # [🛒 Sales Analysis Project](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Python%20Project.ipynb)
 
 
-This project analyzes customer behavior and sales trends in a supermarket setting, aiming to uncover insights that can drive profitability, enhance customer satisfaction, and improve inventory and marketing strategies. By examining data such as product categories, payment methods, customer demographics, and sales hours, this analysis identifies key factors that influence customer purchasing decisions.
+This project analyzes customer behavior and sales trends in a buisness setting, aiming to uncover insights that can drive profitability, enhance customer satisfaction, and improve inventory and strategies. By examining data such as product categories, payment methods, customer demographics, and sales hours, this analysis identifies key factors that influence customer purchasing decisions.
 
 The findings offer actionable insights for optimizing store operations, personalizing customer offerings, and strengthening loyalty programs, ultimately supporting the supermarket's business objectives.
 
