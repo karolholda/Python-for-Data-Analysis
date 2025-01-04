@@ -52,29 +52,20 @@ The project leverages several Python libraries for data analysis and visualizati
 
 Below are some example plots generated during the analysis:
 
-### 1. ⏰ Rating vs Customers
+### 1. 📊 Rating vs Customers
 ![High rating = customer returns?](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/charts/Rating%20vs%20Customers.png)
 
-### 2. 🛒 Percentage of Average Spend by Customer Type
-![Percentage of Average Spend by Customer Type](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Percentage%20of%20Average%20Spend%20by%20Customer%20Type.PNG)
+### 2. 📈 Net vs Gross Sales
+![Sales trend over months](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/charts/Netto%20vs%20Gross%20Sales.png)
 
-### 3. 📈 Peak Sales Hours
-![Peak Sales Hours](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Peak%20Sales%20Hours.PNG)
-
-### 4. 🗺️ Average Rating by Location
-![Average Rating by Location](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Rating%20by%20Location.PNG)
-
-### 5. 💳 Average Transaction Value by Payment Method
-![Average Transaction Value by Payment Method](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Transaction%20Value.PNG)
-
+### 3. 🛒 KPI's
+![ First Class Summary](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/charts/KPI.png)
 
 ---
 
 ## 💡 Summary of Insights
 
-- **Location-Based Sales Trends**: Some branches show higher revenue, indicating the need for location-specific promotions.
-- **Customer Loyalty Impact**: Members have higher average transaction values, suggesting potential for further loyalty-based incentives.
-- **Gender-Specific Preferences**: Different product categories resonate more with male vs. female customers, allowing for targeted marketing.
-- **Optimal Sales Hours**: Certain hours drive higher sales, helping optimize staffing and inventory for peak times.
-- **Profit Maximization Opportunities**: Focusing on high-margin products can improve overall profitability.
+- **High rating (5) is better than lower rating**: However, no rating doesn't mean no return, quite the opposite usually.
+- **As gross sales increase, net sales also increase**: Net sales and gross sales over time
+- **Reconsider discounts**: Yearly summary. Costs lower than gross sales but higher than net sales. 
 
