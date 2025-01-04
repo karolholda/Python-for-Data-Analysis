@@ -5,8 +5,6 @@ This project analyzes customer behavior and sales trends in a supermarket settin
 
 The findings offer actionable insights for optimizing store operations, personalizing customer offerings, and strengthening loyalty programs, ultimately supporting the supermarket's business objectives.
 
-
-Link to Dataset : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 ---
 
 ## 📊 Project Overview
