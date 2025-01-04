@@ -11,10 +11,10 @@ The findings offer actionable insights for optimizing store operations, personal
 
 ### 🎯 Objectives
 
-- **Analyze** sales patterns across different product categories, customer demographics, and store locations.
-- **Understand** how customer preferences vary by gender, membership status, payment method, and time of day.
+- **Analyze**  the impact of shipping class on sales
+- **Understand** the number of product returns and finding out the reasons
 - **Identify** high-margin product categories and the best-performing segments to maximize profitability.
-- **Provide actionable insights** for better inventory management, personalized marketing, and optimized customer service.
+- **Provide actionable insights** for better inventory management, and optimized customer service.
 
 ---
 
