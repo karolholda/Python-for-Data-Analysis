@@ -52,19 +52,19 @@ The project leverages several Python libraries for data analysis and visualizati
 ## 📊 Example Visualizations
 
 ### 1. 📈 Relationship Between Age and Average Speed
-![Age and Average Speed](path/to/age_vs_speed_chart.png)
+![Age and Average Speed](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Ultra%20Run%20Project/charts/ulatrarun1.png)
 
 ### 2. 🏅 Seasonal Impact on Average Running Speed
-![Seasonal Impact](path/to/seasonal_impact_chart.png)
+![Seasonal Impact](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Ultra%20Run%20Project/charts/ulatrarun2.png)
 
 ### 3. 👫 Gender-Based Performance Differences in Long-Distance Races
-![Gender Differences](path/to/gender_difference_chart.png)
+![Gender Differences](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Ultra%20Run%20Project/charts/ulatrarun3.png)
 
 ### 4. 🍂 Seasonal Participation Trends
-![Seasonal Participation](path/to/seasonal_participation_chart.png)
+![Seasonal Participation](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Ultra%20Run%20Project/charts/ulatrarun4.png)
 
-### 5. 🔢 Top Performing Age Groups in 50mi Races
-![Top Age Groups](path/to/top_age_groups_chart.png)
+### 5. 🔢 Race Finishers by Gender
+![Top Age Groups](https://github.com/karolholda/Python-for-Data-Analysis/blob/main/Ultra%20Run%20Project/charts/ulatrarun5.png)
 
 ---
 
